@@ -1,6 +1,3 @@
-# CS523.M21.KHCL
-# CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO - ADVANCED DATA STRUCTURE AND ALGORITHM
-
 
 <!-- Banner -->
 <p align="center">
