@@ -32,7 +32,7 @@
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Nguyễn Thị Như Vân | 20520855 | Nhóm trưởng | 20520855@gm.uit.edu.vn | [nguyenthinhuvan](https://github.com/nguyenthinhuvan) | [xxnhwzaan](https://www.facebook.com/xxnhwzaan/) |
-| 2 | Phạm Bùi Nhật Huy | 20521410 | Thành viên | 20521410@gm.uit.edu.vn |  |  |
+| 2 | Phạm Bùi Nhật Huy | 20521410 | Thành viên | 20521410@gm.uit.edu.vn | [mysteryrune](https://github.com/MysteryRune) | [huypbn](https://www.facebook.com/huy.phambuinhat/) |
 | 3 | Nguyễn Minh Trí | 19522388 | Thành viên | 19522388@gm.uit.edu.vn |  |  |
 
 
