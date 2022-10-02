@@ -16,7 +16,7 @@
 * [Giới thiệu nhóm](#giới-thiệu-nhóm)
 * [Chủ đề báo cáo](#chủ-đề-báo-cáo)
 <!--* [Thư mục bài tập](#thư-mục-bài-tập-tuần)-->
-<!--* [Tổng kết môn học](https://github.com/caohungphu/CS112.L21/blob/main/SummaryReport)-->
+
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO
